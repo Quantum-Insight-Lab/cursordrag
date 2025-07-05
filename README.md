@@ -19,10 +19,34 @@
 ## Установка
 
 ```bash
-git clone https://github.com/aeon/florisboard-aeon.git
-cd florisboard-aeon
+git clone https://github.com/Quantum-Insight-Lab/cursordrag.git
+cd cursordrag
 ./gradlew assembleDebug
 ```
+
+## Разработка
+
+```bash
+# Клонирование
+git clone https://github.com/Quantum-Insight-Lab/cursordrag.git
+cd cursordrag
+
+# Сборка
+./gradlew assembleDebug
+
+# Тесты
+./gradlew test
+
+# Линтинг
+./gradlew lint
+```
+
+## Архитектура
+
+- **MVVM + Hilt DI** - современная архитектура
+- **StateFlow** - реактивное управление состоянием
+- **Compose** - декларативный UI
+- **Strategy Pattern** - гибкая обработка жестов
 
 ## Лицензия
 

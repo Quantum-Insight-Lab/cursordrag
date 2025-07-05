@@ -11,7 +11,7 @@
 
 ### 2. Подключение к GitHub
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/cursordrag.git
+git remote add origin https://github.com/Quantum-Insight-Lab/cursordrag.git
 git push -u origin main
 ```
 
@@ -29,7 +29,7 @@ git push origin v1.0.0
 ### 5. Настройка GitHub Pages (опционально)
 - Settings → Pages
 - Source: GitHub Actions
-- Документация будет доступна на `https://YOUR_USERNAME.github.io/cursordrag`
+- Документация будет доступна на `https://quantum-insight-lab.github.io/cursordrag`
 
 ## Полезные команды:
 

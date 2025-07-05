@@ -5,6 +5,7 @@
 ### 1. Форк репозитория
 - Нажмите "Fork" на GitHub
 - Склонируйте ваш форк: `git clone https://github.com/YOUR_USERNAME/cursordrag.git`
+- Или клонируйте основной репозиторий: `git clone https://github.com/Quantum-Insight-Lab/cursordrag.git`
 
 ### 2. Создание ветки
 ```bash
